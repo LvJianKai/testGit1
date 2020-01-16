@@ -10,5 +10,6 @@ public class HelloWorld
 		System.out.println("hello world hello 222");
 		System.out.println("1111111111111111111111111111");
 		System.out.println("hello ");
+		System.out.println("test");
 	}
 }
